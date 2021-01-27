@@ -73,7 +73,5 @@ public class Main {
             System.out.println( i + " weeks later");
             Mom.say();
         }
-
-
     }
 }
